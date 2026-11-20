@@ -1,6 +1,6 @@
 # Git cheatsheet
 
-Five common Git commands:
+Six common Git commands:
 
 | Command | What it does |
 |---|---|
@@ -9,3 +9,4 @@ Five common Git commands:
 | `git pull` | Fetches updates from the tracked remote branch and integrates them locally. |
 | `git add <path>` | Stages file changes so they are included in the next commit. |
 | `git commit -m "message"` | Records staged changes as a new commit with a short message. |
+| `git blame <path>` | Shows who last changed each line of a file and in which commit. |
